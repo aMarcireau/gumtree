@@ -1,0 +1,16 @@
+{
+    "name": "gumtree",
+    "version": "0.0.1",
+    "description": "File tree editor",
+    "main": "gumtree.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/aMarcireau/gumtree.git"
+    },
+    "author": "Alexandre Marcireau",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/aMarcireau/gumtree/issues"
+    },
+    "homepage": "https://github.com/aMarcireau/gumtree#readme"
+}
